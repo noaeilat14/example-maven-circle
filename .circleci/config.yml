@@ -9,5 +9,4 @@ jobs:
       - run: 
           name: install dependencies
           command: | 
-            mvn dependency:tree
             bash <(curl -s https://scripts.scantist.com/ci-circle.sh)

@@ -1,4 +1,4 @@
-# Scantist example-maven-circle 
+# Scantist example-maven-circle  
 
 ## Below is the depedencies (direct & transitive) from this project
 
